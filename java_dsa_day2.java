@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.LinkedList;
 
 public class java_dsa_day2 {
@@ -18,5 +19,13 @@ public class java_dsa_day2 {
 
         var cars1 = new LinkedList<String>();
 
+        HashSet<String> cars2 = new HashSet<String>();
+        cars2.add("volvo");
+        cars2.add("volvo");
+
+        System.out.println(cars2);
+        if (cars2.contains("volvo")) {
+            System.out.println("yes");
+        }
     }
 }
