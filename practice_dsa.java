@@ -44,5 +44,6 @@ public class practice_dsa {
             // Integer number = iterator.next();
             System.out.println(iterator.next());
         }
+
     }
 }

@@ -29,11 +29,11 @@ public class twins {
                 break;
             }
 
-            System.out.println("num of coins " + numOfCoins);
-            System.out.println("value " + currentCoinValue);
-            System.out.println("id" + i);
+            // System.out.println("num of coins " + numOfCoins);
+            // System.out.println("value " + currentCoinValue);
+            // System.out.println("id" + i);
 
-            System.out.println("-----");
+            // System.out.println("-----");
         }
 
         System.out.println(numOfCoins);
