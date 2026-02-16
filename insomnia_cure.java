@@ -22,5 +22,6 @@ public class insomnia_cure {
         }
 
         System.out.println(suffered_drags);
+        sc.close();
     }
 }
